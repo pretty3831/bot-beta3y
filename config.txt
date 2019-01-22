@@ -1,6 +1,6 @@
-token=NTI0Nzg4NTkwNjY5MjAxNDE4.DyecZA.hz9SyIHMb1hwCIDq9EX1JgFEpKQ
+token=NTM3MzgxMjY1MjA5NDI1OTIx.Dyka1A.Q0Cc-DNr9hJ4Yt7PSbF81xnvvZk
 owner=433198762706599936
-prefix=r
-game=pretty is here..
+prefix=m
+game=menna is here..
 stayinchannel=true
 songinstatus=true 
