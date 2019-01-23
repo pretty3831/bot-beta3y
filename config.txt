@@ -1,4 +1,4 @@
-token=NTM3MzgxMjY1MjA5NDI1OTIx.Dyka1A.Q0Cc-DNr9hJ4Yt7PSbF81xnvvZk
+token=NTM3NTg1ODk3NTQ2MzE3ODM4.DyneNg.L5Kj2BEJjKrVf2mdQ8Jrzb_S2Hg
 owner=433198762706599936
 prefix=m
 game=menna is here..
